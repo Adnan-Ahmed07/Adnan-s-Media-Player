@@ -1,8 +1,8 @@
-module org.example.adnanmediaplayer {
+module org.example.myapp {
     requires javafx.controls;
     requires javafx.fxml;
 
 
-    opens org.example.adnanmediaplayer to javafx.fxml;
-    exports org.example.adnanmediaplayer;
+    opens org.example.myapp to javafx.fxml;
+    exports org.example.myapp;
 }
