@@ -1,4 +1,4 @@
-package org.example.myapp;
+package com.Adnansoft.javafxmedia;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
